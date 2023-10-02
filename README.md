@@ -1,2 +1,2 @@
 # ESI
-Projetos referentes à disciplina Engenharia de Softwares I (ESI).
+Projetos referentes à disciplina Engenharia de Software I (ESI).
